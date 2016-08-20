@@ -1,0 +1,8 @@
+#Lines starting with '#' are ignored
+#Instagram api key wasn't used
+#Pinterset api key was not used
+
+ebay = "HarinduG-pythonSc-PRD-890ed7b6b-5337fd95"
+flickr = "4e4e0c6d52fbdc12e357829e64f3178f"
+
+

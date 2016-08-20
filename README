@@ -1,0 +1,34 @@
+@author - Harindu Dilshan
+@email - harindudilshan95@gmail.com
+
+You can use the script by running postimages.py
+Eg:-
+	python postimages.py india 2
+The script doesn't require anything to install other than the folder contents.
+The social media sites and vam.ac.uk are handled by the respective modules.
+
+You can set api keys in keys.txt file.
+
+Please read the notes below on each module.
+
+Wordpress:-
+
+As I have been unable to work with wordpress open api , I used email to post which would not for you I guess.Therefore I don't think this will be a complete implementation for your problem. If you like you can write your own wordpress module.
+
+Example wordpress blog :- pythonscriptblog.wordpress.com
+	
+
+Instagram:-
+
+As Instagram doesn't allow searching multiple tags or tags with geolocation , I have used google site search instead.
+
+
+Pinterset:
+
+As Pinterest doesnt seem to offer search api, I have used the web search.
+
+Flickr:-
+
+I have desgined to select the highest resolution image possible or the original image for a given image.
+
+
